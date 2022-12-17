@@ -1,12 +1,3 @@
-# SYSC 3303 Elevator Project - Group 7
-
-**Breakdown of responsibilities**
-- Zakaria Damou [Messages, Subsystem, Sequence Diagram, FloorSubsystem]
-- Ryan Godfrey [Elevator Subsystem, Elevator, Tests, UML Class Diagram, Elevator State Machine Diagram]
-- Rahel Gunaratne [Scheduler, Messages, Tests]
-- Sarah Jaber [Scheduler, Tests, UML Class Diagram, Scheduler State Machine Diagram, Scheduler Error Handling]
-- Matthew Siu [Messages, Subsystem, Tests, Elevator State Machine Diagram, Elevator Error]
-
 ## Project Files:
 The Project is broken up into several different packages, which each fulfill a different purpose. The packages include the following:
 
